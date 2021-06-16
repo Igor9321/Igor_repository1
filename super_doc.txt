@@ -1,6 +1,7 @@
 Hello world!
 
-Some new yext from new feature!
+Some new text from new feature!
+We will continue to work with this idea
 
 My name is Igor!
 
