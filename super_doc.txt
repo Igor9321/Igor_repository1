@@ -3,3 +3,8 @@ Hello world!
 My name is Igor!
 
 Some main work in progress...
+Some new text from new feature!
+We will continue to work with this idea
+
+My name is Igor!
+
